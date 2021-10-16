@@ -3,8 +3,8 @@
 
 Reddit Datasets
 
-1.Yoo, M.; Lee, S.; Ha, T. Semantic network analysis for understanding user experiences of bipolar and depressive disorders on Reddit. Inf. Process. Manag. 2019, 56, 1565–1575, doi:10.1016/j.ipm.2018.10.001.
-2.	Wolohan, J.T.; Hiraga, M.; Mukherjee, A.; Sayyed, Z.A. Detecting Linguistic Traces of Depression in Topic-Restricted Text: Attending to Self-Stigmatized Depression with NLP. In Proceedings of the First International Workshop on Language Cognition and Computational Model, Santa Fe, NM, USA, 20 August 2018; pp. 11–21.
+1. Yoo, M.; Lee, S.; Ha, T. Semantic network analysis for understanding user experiences of bipolar and depressive disorders on Reddit. Inf. Process. Manag. 2019, 56, 1565–1575, doi:10.1016/j.ipm.2018.10.001.
+2. Wolohan, J.T.; Hiraga, M.; Mukherjee, A.; Sayyed, Z.A. Detecting Linguistic Traces of Depression in Topic-Restricted Text: Attending to Self-Stigmatized Depression with NLP. In Proceedings of the First International Workshop on Language Cognition and Computational Model, Santa Fe, NM, USA, 20 August 2018; pp. 11–21.
 3.  Tadesse, M.M.; Lin, H.; Xu, B.; Yang, L. Detection of depression-related posts in reddit social media forum. IEEE Access 2019, 7, 44883–44893, doi:10.1109/ACCESS.2019.2909180.
 4.	Cacheda, F.; Fernandez, D.; Novoa, F.J.; Carneiro, V. Early detection of depression: Social network analysis and random forest techniques. J. Med. Internet Res. 2019, 21, doi:10.2196/12554.
 5.	Pirina, I.; Çöltekin, Ç. Identifying Depression on Reddit: The Effect of Training Data. In Proceedings of the 2018 EMNLP Workshop SMM4H: The 3rd Social Media Mining for Health Applications Workshop & Shared Task, Brussels, Belgium, 31 October 2018; pp. 9–12, doi:10.18653/v1/w18-5903. 
