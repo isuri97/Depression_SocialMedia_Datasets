@@ -35,7 +35,7 @@ CLEF eRisk Dataset
 
 
 MedHelp dataset
-1.Zhang, T.; Cho, J.H.D.; Zhai, C. Understanding User Intents in Online Health Forums. IEEE J. Biomed. Health Inform. 2015, 19, 1392–1398, doi:10.1109/JBHI.2015.2416252.
+1. Zhang, T.; Cho, J.H.D.; Zhai, C. Understanding User Intents in Online Health Forums. IEEE J. Biomed. Health Inform. 2015, 19, 1392–1398, doi:10.1109/JBHI.2015.2416252.
 
 eDisease dataset
 1. Carrillo-de-Albornoz, J.; Aker, A.; Kurtic, E.; Plaza, L. Beyond opinion classification: Extracting facts, opinions and experiences from health forums. PLoS ONE 2019, 14, e0209961, doi:10.1371/journal.pone.0209961.
